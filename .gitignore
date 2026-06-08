@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+.Python
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 用户配置
+.user-config.json
+
+# 测试输出
+test-output/
+test_output/
+output/
+
+# 日志
+*.log
+
+verify_output.txt
+_test_output/
+demo/
+
